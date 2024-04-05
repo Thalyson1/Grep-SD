@@ -9,7 +9,7 @@ Rodando o Script:
 
 
 
-2- no Windows uso o seguinte comando:
+2- no Windows use o seguinte comando:
 
 
 ```python
