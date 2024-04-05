@@ -11,6 +11,9 @@ def Mape(arquivo, conteudo):
 
 
 def Reducee(results):
+    if not results:
+        return []
+
     resultadoFinal = []
     for resultado in sorted(results, key=lambda x: x[0]):
         for num_linha, linha in resultado:
